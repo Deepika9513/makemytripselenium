@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T11:15:32 IST" name="Suite" finished-at="2023-06-23T11:17:16 IST" duration-ms="104582">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T11:15:32 IST" name="Test" finished-at="2023-06-23T11:17:16 IST" duration-ms="104582">
+      <class name="makemytripselenium.makemytrip">
+        <test-method is-config="true" signature="setup()[pri:0, instance:makemytripselenium.makemytrip@4034c28c]" started-at="2023-06-23T11:15:32 IST" name="setup" finished-at="2023-06-23T11:15:39 IST" duration-ms="7414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectholidaypackage()[pri:0, instance:makemytripselenium.makemytrip@4034c28c]" started-at="2023-06-23T11:15:39 IST" name="selectholidaypackage" finished-at="2023-06-23T11:17:16 IST" duration-ms="96492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectholidaypackage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:makemytripselenium.makemytrip@4034c28c]" started-at="2023-06-23T11:17:16 IST" name="closeBrowser" finished-at="2023-06-23T11:17:16 IST" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- makemytripselenium.makemytrip -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
